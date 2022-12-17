@@ -103,7 +103,7 @@ body{
       @media screen and (max-width: 1000px) {
         .input-group {
          margin: auto;
-    margin-bottom: 10px;
+    margin-bottom: 10px !important;
 }
         }
       }
