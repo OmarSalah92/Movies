@@ -77,7 +77,8 @@ body{
 .input-group{
     width: 170px;
     height: 30px;
-    margin-left: 28px;
+   margin: auto;
+    margin-bottom: 10px;
 }
 
 .view{
